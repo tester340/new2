@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Pagina</title>
+	<title>Primera Pagina</title>
 </head>
 <body>
 
